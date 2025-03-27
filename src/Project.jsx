@@ -80,7 +80,7 @@ function Project() {
                                 <p>A dynamic personal portfolio highlighting my expertise, projects, and professional journey. Featuring a clean, responsive design, it presents my skills, achievements, and work samples effectively. </p>
                                 <p className="tools">HTML, CSS3, Bootstrap, JavaScript, React.js</p>
                             </div>
-                            <a><i class="fa-solid fa-link"></i></a> 
+                            <a href="#"><i class="fa-solid fa-link"></i></a> 
                         </div>
                         <div className="project-item">
                             <div className="project-item-detail">
