@@ -524,7 +524,6 @@ nav i{
   section.home{
     height: fit-content !important;
     margin-top: -2%;
-    background-color: red;
   }
   .home-detail-main{
     height: 30% !important;
