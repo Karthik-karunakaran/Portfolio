@@ -617,7 +617,15 @@ nav i{
   }
 }
 @media (max-width:425px) {
- 
+  .home-detail span{
+    color: var(--main-color);
+    -webkit-text-stroke: none;
+  }
+
+  .home-detail span::before{
+    animation: none;
+    height: 0;
+  }
   section.home{
     height: 100% !important;
     margin: 0 !important;
