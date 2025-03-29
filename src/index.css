@@ -683,6 +683,9 @@ nav i{
   .experience h3{
       font-size: 70%;
   }
+  .experience .resume-list{
+    height: 100%;
+  }
   .resume-item h5::before{
       margin-top: -10%;
       height: 4%;
