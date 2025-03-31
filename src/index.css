@@ -695,8 +695,8 @@ nav i{
     padding: 0% !important;
     margin-left: 25%;
   }
-  .resume .skills text{
-    font-size: 200% !important;
+  .resume .skills text i{
+    font-size: 150% !important;
   }
   .resume .skills span{
     font-size: 70%;
