@@ -102,10 +102,6 @@ function Resume() {
                                             <span>JavsScript</span>
                                         </div>
                                         <div className="resume-item col-3">
-                                            <i className="fa-brands fa-java"></i><br />
-                                            <span>Java</span>
-                                        </div>
-                                        <div className="resume-item col-3">
                                             <i className="fa-brands fa-bootstrap"></i><br />
                                             <span>Bootstrap</span>
                                         </div>
@@ -114,13 +110,32 @@ function Resume() {
                                             <span>Reacj.js</span>
                                         </div>
                                         <div className="resume-item col-3">
+                                            <i>Js</i><br />
+                                            <span>Json</span>
+                                        </div>
+                                        <div className="resume-item col-3">
+                                            <i className="fa-brands fa-java"></i><br />
+                                            <span>Java</span>
+                                        </div>
+                                        <div className="resume-item col-3">
                                             <i>SB</i><br />
                                             <span>Spring Boot</span>
                                         </div>
                                         <div className="resume-item col-3">
-                                            <i>Js</i><br />
-                                            <span>Json</span>
+                                            <i>MY SQL</i><br />
+                                            <span>My sql</span>
                                         </div>
+                                        <div className="resume-item col-3">
+                                            <i>JSP</i><br />
+                                            <span>java server page</span>
+                                        </div>
+                                        <div className="resume-item col-3">
+                                            <i>JDBC</i><br />
+                                            <span>java database connection</span>
+                                        </div>
+                                        
+                                       
+                                       
                                     </div>
                                 </div>
                             </div>

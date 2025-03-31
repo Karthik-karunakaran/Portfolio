@@ -695,8 +695,11 @@ nav i{
     padding: 0% !important;
     margin-left: 25%;
   }
-  .portfolio-carousel .img-item img{
-    border: 2px solid var(--main-color) !important;
+  .resume .skills text{
+    font-size: 200% !important;
+  }
+  .resume .skills span{
+    font-size: 70%;
   }
   .contact{
     margin-bottom: 5%;
