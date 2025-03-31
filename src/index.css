@@ -675,7 +675,9 @@ nav i{
   .education .resume-item{
     margin-bottom: 5% !important;
   }
-
+  .resume .skills .resume-list{
+    height: 65vh !important;
+}
   .btn-sci .btn1 {
       padding: 2% !important;
   }
