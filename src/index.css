@@ -263,7 +263,7 @@ nav i{
   font-size: 120%;
 }
 .skills .resume-list{
-  height: 50vh;
+  height: 70vh;
 }
 .skills i{
   font-size: 400%;
@@ -695,8 +695,8 @@ nav i{
     padding: 0% !important;
     margin-left: 25%;
   }
-  .resume .skills text i{
-    font-size: 150% !important;
+  .resume .skills text{
+    font-size: 200% !important;
   }
   .resume .skills span{
     font-size: 70%;
@@ -744,5 +744,45 @@ nav i{
 
 .footer p{
   margin-top: 1%;
+  width: 100%;
+}
+/* .footer i{
+  color: var(--white-color);
+  background-color: var(--second-bg-color);
+  font-size: 140%;
+  padding: .5%;
+  margin-top: 1%;
+  margin-left: 1%;
+  border-radius: 50%;
+  transition: .3s;
+  border: 1px solid var(--bg-color);
+}
+.footer i:hover{
+  color: var(--main-color);
+  border: 1px solid var(--main-color);
+  box-shadow: 0px 0px 5px var(--main-color);
+}
+.footer a{
+  text-decoration: none;
+}
+.footer .copy-right{
+  padding: 0;
+  font-size:100%;
+}
+.footer p{
+  display: inline-block;
+} */
+.resume .skills img{
+  box-sizing: border-box;
+  height: 50%;
+  width: 50%;
+}
+.resume .skills .bootstrap{
+  width: 60%;
+}
+.resume .skills .java{
+  width: 40%;
+}
+.resume .skills .springboot{
   width: 100%;
 }
