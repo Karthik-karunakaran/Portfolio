@@ -727,7 +727,6 @@ nav i{
 }
 .footer{
   overflow: hidden;
-  margin-top: 8%;
   width: 100%;
   background-color: var(--second-bg-color);
   text-align: center;

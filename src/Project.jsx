@@ -26,21 +26,25 @@ function Project() {
 
         // Right arrow click event
         arrowRight.addEventListener('click', () => {
-            if (index < 1) {
+            if (index < 0) {
                 index++;
                 arrowLeft.classList.remove('disable');
             } else {
-                index = 2;
+                index = 1;
                 arrowRight.classList.add('disable');
+                arrowLeft.classList.remove('disable');
+
             }
             activePortfolio();
         });
 
         // Left arrow click event
         arrowLeft.addEventListener('click', () => {
-            if (index > 1) {
+            if (index > 0) {
                 index--;
                 arrowRight.classList.remove('disable');
+                arrowLeft.classList.add('disable');
+
             } else {
                 index = 0;
                 arrowLeft.classList.add('disable');
@@ -80,7 +84,7 @@ function Project() {
                                 <p>A dynamic personal portfolio highlighting my expertise, projects, and professional journey. Featuring a clean, responsive design, it presents my skills, achievements, and work samples effectively. </p>
                                 <p className="tools">HTML, CSS3, Bootstrap, JavaScript, React.js</p>
                             </div>
-                            <a href="https://karthik-karunakaran.github.io/Note-Application/"><i class="fa-solid fa-link"></i></a> 
+                            <a><i class="fa-solid fa-link"></i></a> 
                         </div>
                         <div className="project-item">
                             <div className="project-item-detail">
