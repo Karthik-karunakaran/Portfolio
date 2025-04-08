@@ -144,16 +144,7 @@ function Resume() {
                                         <p>Name <span>Karthik k</span></p>
                                     </div>
                                     <div className="resume-item">
-                                        <p>Gender<span>Male</span></p>
-                                    </div>
-                                    <div className="resume-item">
-                                        <p>Age<span>21 Year old</span></p>
-                                    </div>
-                                    <div className="resume-item">
                                         <p>City<span>Thirukalukundram</span></p>
-                                    </div>
-                                    <div className="resume-item">
-                                        <p>Nationality<span>Indian</span></p>
                                     </div>
                                     <div className="resume-item">
                                         <p>Internship<span>Aug-2024 to Present</span></p>
