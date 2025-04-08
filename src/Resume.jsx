@@ -156,7 +156,7 @@ function Resume() {
                                         <p>Nationality<span>Indian</span></p>
                                     </div>
                                     <div className="resume-item">
-                                        <p>Internship<span>Aug-2024 to Present</span></p>
+                                        <p>Internship<span>Aug-2024 to Present </span></p>
                                     </div>
                                     <div className="resume-item">
                                         <p>Phone<span>(+91) 9384114211</span></p>
