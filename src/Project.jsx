@@ -26,21 +26,25 @@ function Project() {
 
         // Right arrow click event
         arrowRight.addEventListener('click', () => {
-            if (index < 1) {
+            if (index < 0) {
                 index++;
                 arrowLeft.classList.remove('disable');
             } else {
-                index = 2;
+                index = 1;
                 arrowRight.classList.add('disable');
+                arrowLeft.classList.remove('disable');
+
             }
             activePortfolio();
         });
 
         // Left arrow click event
         arrowLeft.addEventListener('click', () => {
-            if (index > 1) {
+            if (index > 0) {
                 index--;
                 arrowRight.classList.remove('disable');
+                arrowLeft.classList.add('disable');
+
             } else {
                 index = 0;
                 arrowLeft.classList.add('disable');

@@ -89,37 +89,49 @@ function Resume() {
                                 <p>Iam learning these skills to build a full-stack, scalbe project. this includes mastering front-end and back-end technologies. Additionally, Im's focusing on version control with Git.</p>
                                 <div className="resume-list">
                                     <div className="row gap-3 d-flex justify-content-center align-items-center">
-                                        <div className="resume-item col-3">
-                                            <i className="fa-brands fa-html5"></i><br />
+                                    <div className="resume-item col-3">
+                                            <img src="html-2.png" alt="" />
                                             <span>HTML5</span>
                                         </div>
                                         <div className="resume-item col-3">
-                                            <i className="fa-brands fa-css3-alt"></i><br />
+                                        <img src="css-2.png" alt="" />
                                             <span>CSS3</span>
                                         </div>
                                         <div className="resume-item col-3">
-                                            <i className="fa-brands fa-js"></i><br />
+                                             <img src="javascriptmain-2.png" alt="" />
                                             <span>JavsScript</span>
                                         </div>
                                         <div className="resume-item col-3">
-                                            <i className="fa-brands fa-java"></i><br />
-                                            <span>Java</span>
-                                        </div>
-                                        <div className="resume-item col-3">
-                                            <i className="fa-brands fa-bootstrap"></i><br />
+                                            <img src="bootstrap-2.png" className="bootstrap" alt="" />
                                             <span>Bootstrap</span>
                                         </div>
                                         <div className="resume-item col-3">
-                                            <i className="fa-brands fa-react"></i><br />
+                                            <img src="logo192.png" alt="" />
                                             <span>Reacj.js</span>
                                         </div>
-                                        <div className="resume-item col-3">
-                                            <i>SB</i><br />
-                                            <span>Spring Boot</span>
+                                        <div className="resume-item col-3 text">
+                                            <img src="json-2.png" alt="" />
+                                            <span>Json</span>
                                         </div>
                                         <div className="resume-item col-3">
-                                            <i>Js</i><br />
-                                            <span>Json</span>
+                                           <img src="java-3.png" className="java" alt="" />
+                                            <span>Java</span>
+                                        </div>
+                                        <div className="resume-item col-3 text">
+                                            <img src="springboot-2.png" className="springboot" alt="" />
+                                            <span>Spring Boot</span>
+                                        </div>
+                                        <div className="resume-item col-3 text">
+                                            <img src="mysql-2.png" alt="" />
+                                            <span>My sql</span>
+                                        </div>
+                                        <div className="resume-item col-3 text">
+                                           <img src="jsp-2.png" alt="" />
+                                            <span>JSP</span>
+                                        </div>
+                                        <div className="resume-item col-3 text">
+                                            <img src="jdbc-2.png" alt="" />
+                                            <span>JDBC</span>
                                         </div>
                                     </div>
                                 </div>

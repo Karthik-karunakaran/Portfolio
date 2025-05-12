@@ -2,7 +2,6 @@ import React, { useEffect } from "react";
 import { Link, Outlet } from "react-router-dom";
 function Navbar() {
     useEffect(()=>{
-        // const nav = document.querySelectorAll('nav');
         const navlinks = document.querySelectorAll('.nav-item .a')
         const activepage = () => {
             navlinks.forEach(link => {
@@ -27,8 +26,8 @@ function Navbar() {
                         aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                         <i className="fa-solid fa-bars"></i>
                     </button>
-                    <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
-                        <ul className="navbar-nav  p-1  mb-lg-0">
+                    <div className="collapse navbar-collapse " id="navbarTogglerDemo02">
+                        <ul className="navbar-nav  mb-lg-0">
                             <li className="nav-item">
                                 <Link to="/" className="a active">Home</Link>
                             </li>
