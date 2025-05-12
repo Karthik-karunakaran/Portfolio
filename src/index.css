@@ -201,7 +201,10 @@ nav i{
   display: flex;
   justify-content: center;
 }
-
+.Career_Highlights{
+  text-align: center;
+  color: var(--main-color);
+}
 .resume-detail h2 span{
   color: var(--main-color);
 }

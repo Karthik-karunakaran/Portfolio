@@ -27,10 +27,11 @@ function Resume() {
         <>
             <section className="resume three container">
                 <div className="row">
+                    <div className="col-12">
+                        <h1 className="Career_Highlights">Career Highlights</h1>
+                    </div>
                     <div className="col-lg-4 col-md-6 col-sm-12 resume-btn-overall">
                         <div>
-                            <h1>Why Hire Me?</h1>
-                            <p>A passionate Full-Stack Developer skilled in Java, Spring Boot, and React.js, dedicated to building efficient and scalable applications.</p>
                             <div className="resume-btn-list">
                                 <button className="resume-btn active">Experience</button>
                                 <button className="resume-btn">Education</button>
