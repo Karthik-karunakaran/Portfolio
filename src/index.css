@@ -727,7 +727,6 @@ nav i{
 }
 .footer{
   overflow: hidden;
-  /* margin-top: 8%; */
   width: 100%;
   background-color: var(--second-bg-color);
   text-align: center;
@@ -780,7 +779,6 @@ nav i{
   width: 50%;
 }
 .resume .skills .bootstrap{
-  height:500% !important;
   width: 60%;
 }
 .resume .skills .java{
