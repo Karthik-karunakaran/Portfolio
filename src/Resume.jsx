@@ -25,8 +25,8 @@ function Resume() {
 
     return (
         <>
-            <section className="resume three container">
-                <div className="row">
+            <section className="resume three container bg-white">
+                <div className="row bg-secondary">
                     <div className="col-lg-4 col-md-6 col-sm-12 resume-btn-overall bg-priary">
                         <div className="bg-danger">
                             <h1 className="Career_Highlights">Career Highlights</h1>
