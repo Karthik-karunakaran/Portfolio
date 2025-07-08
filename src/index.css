@@ -289,11 +289,11 @@ nav i{
 .skills .text i{
   font-size: 275%;
 }
-.resume-detail.about .resume-list{
+.resume-detail.about .resume-list {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  column-gap: 30%;
-  margin-top: 10%;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  margin-top: 2rem;
 }
 
 .resume-detail.about .resume-item{
