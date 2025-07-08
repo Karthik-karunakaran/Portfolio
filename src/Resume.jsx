@@ -136,29 +136,17 @@ function Resume() {
                                 </div>
                             </div>
 
-                            <div className="resume-detail about">
-                                <h2>About <span>Me</span> </h2>
-                                <div className="resume-list">
-                                    <div className="resume-item">
-                                        <p>Name <span>Karthik k</span></p>
-                                    </div>
-                                    <div className="resume-item">
-                                        <p>City<span>Thirukalukundram</span></p>
-                                    </div>
-                                    <div className="resume-item">
-                                        <p>Internship<span>Aug-2024 to Present</span></p>
-                                    </div>
-                                    <div className="resume-item">
-                                        <p>Phone<span>(+91) 9384114211</span></p>
-                                    </div>
-                                    <div className="resume-item">
-                                        <p>Email<span>kk5035236@gmail.com</span></p>
-                                    </div>
-                                    <div className="resume-item">
-                                        <p>Language<span>English, Tamil</span></p>
-                                    </div>
-                                </div>
-                            </div>
+                           <div className="resume-detail about">
+                              <h2>About <span>Me</span></h2>
+                              <div className="resume-list">
+                                <div className="resume-item"><p>Name <span>Karthik k</span></p></div>
+                                <div className="resume-item"><p>City<span>Thirukalukundram</span></p></div>
+                                <div className="resume-item"><p>Internship<span>Aug-2024 to Present</span></p></div>
+                                <div className="resume-item"><p>Phone<span>(+91) 9384114211</span></p></div>
+                                <div className="resume-item"><p>Email<span>kk5035236@gmail.com</span></p></div>
+                                <div className="resume-item"><p>Language<span>English, Tamil</span></p></div>
+                              </div>
+                         </div>
                         </div>
                     </div>
                 </div>
