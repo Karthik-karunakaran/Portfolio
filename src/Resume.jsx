@@ -29,7 +29,7 @@ function Resume() {
                 <div className="row  w-100">
                     <div className="col-lg-4 col-md-6 col-sm-12 resume-btn-overall">
                         <div>
-                            <h1 className="Career_Highlights">Career Highlights</h1>
+                            <h2 className="Career_Highlights">Career Highlights</h2>
                             <div className="resume-btn-list">
                                 <button className="resume-btn active">Experience</button>
                                 <button className="resume-btn">Education</button>
