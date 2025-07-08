@@ -634,7 +634,7 @@ nav i{
 }
 @media (max-width:425px) {
   .Career_Highlights{
-    font-size:18px;
+    font-size:100% !important;
   }
   .footer{
     padding-top: 1%;
