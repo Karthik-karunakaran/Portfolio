@@ -633,7 +633,7 @@ nav i{
   }
 }
 @media (max-width:425px) {
-  .Career_Highlights{
+  .contact-detail h2{
     font-size:100% !important;
   }
   .footer{
