@@ -27,11 +27,9 @@ function Resume() {
         <>
             <section className="resume three container">
                 <div className="row">
-                    <div className="col-12 mb-3">
-                        <h1 className="Career_Highlights">Career Highlights</h1>
-                    </div>
                     <div className="col-lg-4 col-md-6 col-sm-12 resume-btn-overall">
                         <div>
+                            <h1 className="Career_Highlights">Career Highlights</h1>
                             <div className="resume-btn-list">
                                 <button className="resume-btn active">Experience</button>
                                 <button className="resume-btn">Education</button>
