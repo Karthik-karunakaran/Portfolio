@@ -634,7 +634,7 @@ nav i{
 }
 @media (max-width:425px) {
   .contact-detail h2{
-    font-size:100% !important;
+    font-size:calc(1.325rem + .9vw) !important;
   }
   .footer{
     padding-top: 1%;
