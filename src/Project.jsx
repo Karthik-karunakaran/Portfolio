@@ -63,7 +63,7 @@ function Project() {
     return (
         <>
             <section className="project three container">
-                <div className="row d-flex justify-content-center align-items-center w-100 ">
+                <div className="row d-flex justify-content-center align-items-center w-100 h-100 bg-success">
                     <div className="col-12">
                         <h2 className="project-latest">My <span>Projects</span></h2>
                     </div>
