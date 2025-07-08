@@ -25,10 +25,10 @@ function Resume() {
 
     return (
         <>
-            <section className="resume three container bg-primary">
-                <div className="row bg-secondary w-100">
-                    <div className="col-lg-4 col-md-6 col-sm-12 resume-btn-overall bg-priary">
-                        <div className="bg-danger">
+            <section className="resume three container">
+                <div className="row  w-100">
+                    <div className="col-lg-4 col-md-6 col-sm-12 resume-btn-overall">
+                        <div>
                             <h1 className="Career_Highlights">Career Highlights</h1>
                             <div className="resume-btn-list">
                                 <button className="resume-btn active">Experience</button>
@@ -136,9 +136,9 @@ function Resume() {
                                 </div>
                             </div>
 
-                           <div className="resume-detail about bg-info">
+                           <div className="resume-detail about">
                               <h2>About <span>Me</span></h2>
-                              <div className="resume-list bg-success">
+                              <div className="resume-list">
                                 <div className="resume-item"><p>Name <span>Karthik k</span></p></div>
                                 <div className="resume-item"><p>City<span>Thirukalukundram</span></p></div>
                                 <div className="resume-item"><p>Internship<span>Aug-2024 to Present</span></p></div>
