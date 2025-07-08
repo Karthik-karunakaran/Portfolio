@@ -27,8 +27,8 @@ function Resume() {
         <>
             <section className="resume three container">
                 <div className="row">
-                    <div className="col-lg-4 col-md-6 col-sm-12 resume-btn-overall">
-                        <div>
+                    <div className="col-lg-4 col-md-6 col-sm-12 resume-btn-overall bg-priary">
+                        <div className="bg-danger">
                             <h1 className="Career_Highlights">Career Highlights</h1>
                             <div className="resume-btn-list">
                                 <button className="resume-btn active">Experience</button>
@@ -136,9 +136,9 @@ function Resume() {
                                 </div>
                             </div>
 
-                           <div className="resume-detail about">
+                           <div className="resume-detail about bg-info">
                               <h2>About <span>Me</span></h2>
-                              <div className="resume-list">
+                              <div className="resume-list bg-success">
                                 <div className="resume-item"><p>Name <span>Karthik k</span></p></div>
                                 <div className="resume-item"><p>City<span>Thirukalukundram</span></p></div>
                                 <div className="resume-item"><p>Internship<span>Aug-2024 to Present</span></p></div>
