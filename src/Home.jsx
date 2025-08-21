@@ -49,7 +49,7 @@ function Home() {
                             <div className="home-detail mb-5">
                                 <h1>KARTHIK K</h1>
                                 <h2>I'm a
-                                    <span data-text="Intern JAVA Fullstack Developer" className="ms-2"> JAVA Fullstack Developer </span>
+                                    <span data-text="JAVA Fullstack Developer" className="ms-2"> JAVA Fullstack Developer </span>
                                 </h2>
                                 <p>A recent B.C.A gradiuate with a strong academic foundation, Eager to launch a professional career in the field of technology. Proficient in HTML, CSS3, JavaScript, and Java with a solid understanding of programming principles. Committed to applying techhnical knowledge and problem-solving skills to contribue effictively in dynamic growth-oriented work environment.</p>
                                 <div className="btn-sci">
