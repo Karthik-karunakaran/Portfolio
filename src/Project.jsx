@@ -136,14 +136,14 @@ function Project() {
                 <div className="img-slide" id="img-slide">
                   <div className="img-item">
                     {/* <img src="note-pro.png" alt="img" /> */}
-                    <img src="/restaurent.png" />
+                    <img src="/restaurent.png" alt="restaurent"/>
                   </div>
                   <div className="img-item">
-                    <img src="portfolio-img.png" alt="img" />
+                    <img src="portfolio-img.png" alt="portfolio" />
                   </div>
                   <div className="img-item">
                     {/* <img src="3.jpg" alt="img" /> */}
-                    <img src="/note-pro.png" />
+                    <img src="/note-pro.png" alt="nate"/>
                   </div>
                 </div>
               </div>

@@ -53,7 +53,7 @@ function Home() {
                                 </h2>
                                 <p>A recent B.C.A gradiuate with a strong academic foundation, Eager to launch a professional career in the field of technology. Proficient in HTML, CSS3, JavaScript, and Java with a solid understanding of programming principles. Committed to applying techhnical knowledge and problem-solving skills to contribue effictively in dynamic growth-oriented work environment.</p>
                                 <div className="btn-sci">
-                                    <a href="karthik-9384114211-1.pdf" className="btn1" download="Karthik">Download Resume</a>
+                                    <a href="public/KARTHIK_K-9384114211.pdf" className="btn1" download="Karthik">Download Resume</a>
                                     <a href="https://www.linkedin.com/in/k-karthik-201540293/" className="icon-btn"><i class="fa-brands fa-linkedin"></i></a>
                                     <a href="https://github.com/Karthik-karunakaran" className="icon-btn"><i className="fa-brands fa-github"></i></a>
                                 </div>
