@@ -107,7 +107,7 @@ function Project() {
                   HTML, CSS3, Bootstrap, JavaScript, React.js
                 </p>
               </div>
-              <a href="https://karthik-karunakaran.github.io/Note-Application/">
+              <a href="https://68a6eaa3aeb0b69a07746a89--karthik-karunakaran.netlify.app/">
                 <i class="fa-solid fa-link"></i>
               </a>
             </div>
@@ -142,7 +142,6 @@ function Project() {
                     <img src="portfolio-img.png" alt="portfolio" />
                   </div>
                   <div className="img-item">
-                    {/* <img src="3.jpg" alt="img" /> */}
                     <img src="/note-pro.png" alt="nate"/>
                   </div>
                 </div>
